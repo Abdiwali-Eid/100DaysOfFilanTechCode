@@ -41,4 +41,4 @@
 
 **Link to work**: [Portfolio Website](https://github.com/abdirahmaan/100daysofFilanTech/tree/main/HTML_CSS/Day_6/portfolio)
 
-**Link to work**: [Tribute Page](https://github.com/abdirahmaan/100daysofFilanTech/tree/main/HTML_CSS/Day_6/tribute%20page)
+
