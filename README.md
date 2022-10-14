@@ -12,4 +12,4 @@ This repository contains all my 100 Days of FilanTech Coding challenges. At the 
 * [Resources - click here to see the resources I use for my Learning](resources.md)
 
 
-Follow me on Twitter: [Abdirahmaan](https://twitter.com/CabdiwaliBashir)
+Follow me on Twitter: [Abdiwali](https://twitter.com/CabdiwaliBashir)
